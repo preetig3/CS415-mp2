@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/Objects/BP_Mortar.uasset",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/Objects/BP_Pursuer.uasset",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/Objects/BP_MortarProjectile.uasset",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/Levels/NewLevel.umap",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/BlockGame/P_ExplosionEffect.uasset",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/Objects/png-clipart-black-arrow-logo-computer-icons-reboot-reset-icon-symbol-restart-text-trademark.uasset",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/LearningKit_Games/Restart.uasset",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/UI/Restart.uasset",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/Objects/BP_StaticCloud.uasset",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/Levels/NewLevel2.umap",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/Objects/BP_CloudEnemy.uasset",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/Objects/BP_CloudProjectile.uasset",
+				"/Users/preetigomathinayagam/Downloads/CS415-main-2/UnrealLearningKit/Content/LearningKit_Games/Won.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/UI/HealthBar.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/Objects/HealthPackCube.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/Objects/HealthPack.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/Levels/NewLevel.umap",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/Objects/Pursuer_AIController.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/Objects/Pursuer.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/Objects/BP_Pursuer.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/Objects/EAIState.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/Objects/Collectibles.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/Objects/NewBlueprint.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/UI/Restart.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/MP2.uasset",
+				"/Users/preetigomathinayagam/Documents/Unreal Projects/UnrealLearningKit/Content/LearningKit_Games/Restart.uasset"
+			]
+		}
+	]
+}
